@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/justin_molina_portfolio/static/css/main.960f87e5.css",
+    "main.js": "/justin_molina_portfolio/static/js/main.e705e286.js",
+    "static/media/MedicareScreen.png": "/justin_molina_portfolio/static/media/MedicareScreen.661d21050de41d50e851.png",
+    "static/media/img_5.png": "/justin_molina_portfolio/static/media/img_5.c29b0d5e9aa99c15dd5f.png",
+    "static/media/Memoji_2.png": "/justin_molina_portfolio/static/media/Memoji_2.d5945924d176d115ac79.png",
+    "static/media/JustinMolina_Resume.pdf": "/justin_molina_portfolio/static/media/JustinMolina_Resume.07cc5d06b4f928fa18d2.pdf",
+    "index.html": "/justin_molina_portfolio/index.html",
+    "main.960f87e5.css.map": "/justin_molina_portfolio/static/css/main.960f87e5.css.map",
+    "main.e705e286.js.map": "/justin_molina_portfolio/static/js/main.e705e286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.960f87e5.css",
+    "static/js/main.e705e286.js"
+  ]
+}
